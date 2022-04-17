@@ -1,0 +1,12 @@
+:root {
+  --color-bg-external: lightblue;
+  --color-bg-internal: rgb(230, 173, 173);
+}
+
+
+body {
+  margin: auto;
+}
+
+
+
